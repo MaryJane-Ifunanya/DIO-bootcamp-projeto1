@@ -15,5 +15,5 @@ Nesse projeto, foi reconstruido a página inicial de login do Instagram, abordan
   (HTML, CSS Flexbox)
 
   
-  ![Demonstração](https://user-images.githubusercontent.com/84542588/127530468-c113fc1b-fa98-4ce2-bfe1-f89b3c1fe80a.png)
+  ![print](https://user-images.githubusercontent.com/84542588/129891485-f4a51ad7-7277-47d0-85a4-64ea21fe7bcb.png)
 
